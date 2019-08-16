@@ -5,6 +5,7 @@ Current
 -------
 
 - Mongolian starlore
+- Hale-Bopp over UB, 1997-03
 
 .. contents::
 
